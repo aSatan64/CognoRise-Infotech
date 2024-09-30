@@ -21,4 +21,3 @@ while True:
             print(num1 + " " + operation + " " + num2 + " "+  " = " +" "+  str(int(num1) / int(num2)))
         else: 
             print("Invalid operation")
-    
